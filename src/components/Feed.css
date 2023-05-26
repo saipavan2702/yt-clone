@@ -1,0 +1,26 @@
+* {
+  background-color: #252525;
+}
+.wrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+img {
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+/* @media screen and (max-width: 550px) {
+  .wrapper {
+    justify-content: space-between;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (max-width: 300px) {
+  .wrapper {
+    justify-content: space-between;
+    grid-template-columns: 1fr;
+  }
+} */
