@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The deployed link https://chat-screen-nr52.vercel.app/
 
 ## How to run in local editor
 
